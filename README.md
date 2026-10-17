@@ -11,7 +11,7 @@ I ran this in a ***Linux VM*** and I was getting the Error:
 I tried to fix it so many times but could and had to rely on the God himself (Deepseek btw). And I recieved a relevation to use the code as:
 
 ```bash
-  brave-browser --enable-unsafe-swiftshader
+brave-browser --enable-unsafe-swiftshader
 ```
 
 This forces the browser to leave hardware acceleration to CPU.
