@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Deadcheat
+// @name         Deadshit
 // @author       https://github.com/Aayush-Kandel
-// @description  Debug panelfor deadcheat
+// @description  Debug panelfor deadshit
 // @match        *://*deadshot.io/*
 // @run-at       document-start
 // @version      1.0
