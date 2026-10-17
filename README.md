@@ -1,4 +1,4 @@
-<img width="1663" height="791" alt="image" src="https://github.com/user-attachments/assets/f079a489-1121-49fb-9705-23cec7229fd0" /># Deadcheat
+# Deadcheat
 
 This was made so that I can learn about this stuff chose a fairly good fps game but am not publicizing any form of harm. This doesn't work on any games whatsoever; just made this to troll those cheaters who think this'll help them...
 
