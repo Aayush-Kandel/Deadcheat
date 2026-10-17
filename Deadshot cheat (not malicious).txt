@@ -1,13 +1,12 @@
 // ==UserScript==
-// @name         LOTUS CHEATS
-// @author       https://github.com/ho9
-// @description  deadshot.io cheat (advertised by W cheats)
+// @name         Deadcheat
+// @author       https://github.com/Aayush-Kandel
+// @description  Debug panelfor deadcheat
 // @match        *://*deadshot.io/*
 // @run-at       document-start
 // @version      1.0
 // @license      lotus 
 // @grant        none
-// @namespace https://greasyfork.org/users/1574706
 // ==/UserScript==
 
 (function() {
