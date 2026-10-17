@@ -1,4 +1,4 @@
-# Deadcheat
+# Deadshit
 
 This was made so that I can learn about this stuff chose a fairly good fps game but am not publicizing any form of harm. This doesn't work on any games whatsoever; just made this to troll those cheaters.
 
